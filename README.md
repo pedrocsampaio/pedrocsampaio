@@ -1,4 +1,4 @@
-# 👋 welcome stranger! I'm Pedro
+# 👋 Welcome stranger!
 
 This is my github profile, where I keep the main projects I work on and help with, feel free to take a look.
 
