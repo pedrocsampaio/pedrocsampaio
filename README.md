@@ -35,7 +35,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original
 <ul>
   <li>🎓 Graduating in Software Engineering</li>
   <li>🌍 Based in Brazil</li>
-  <li>👽: 🇧🇷 🇫🇷 🇮🇹 🇺🇸</li>
 </ul>
 ```
 
